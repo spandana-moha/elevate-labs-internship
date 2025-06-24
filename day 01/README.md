@@ -1,6 +1,3 @@
-# elevate-labs-internship
- Daily tasks from Elevate Labs Internship Program
-
 # Day 01 - Data Cleaning & Preprocessing
 
 📌 Task Objective
